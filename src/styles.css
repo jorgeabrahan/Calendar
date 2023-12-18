@@ -3,3 +3,13 @@
   padding: 0;
   box-sizing: border-box;
 }
+
+/* floating action button */
+.fab {
+  border-radius: 9999px;
+  bottom: 25px;
+  font-size: 1.2rem;
+  padding: 0.6rem;
+  position: fixed;
+  right: 25px;
+}
